@@ -1,0 +1,10 @@
+1. it takes in a number and if the number is divisible by 3 it returns fizz
+2. it takes in a number and if the number is divisible by 5 it returns buzz
+3. if it is divisible by 3 and 5 it will return fizzbuzz
+4. if none of the above applies it will return the integer
+5. the code should be tested well designed
+
+1. create a React component
+2. store a number in a state
+3. display the current fizzbuzz value in the state
+4. two buttons to increment and decrement the number
